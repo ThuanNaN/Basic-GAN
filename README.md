@@ -1,1 +1,1 @@
-# Basic-Gan
+# Implement basic GAN from scratch.
